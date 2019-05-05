@@ -1,4 +1,4 @@
 # Gauge sample test
 
-```gauge run specs
+`gauge run specs`
 
